@@ -17,7 +17,6 @@ import os.path
 from sklearn.model_selection import train_test_split
 import keras
 import xgboost
-from tensorflow.keras.layers.experimental import preprocessing
 from keras.applications.resnet50 import ResNet50
 from keras.applications.resnet50 import preprocess_input, decode_predictions
 from sklearn import metrics
