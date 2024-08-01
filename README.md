@@ -1,0 +1,1 @@
+This is the code associated with the project: "Building Generative Machine Learning Models to Analyze Microscope Images of Material Systems". Developed as part of the SHyNE REU Program 2024, Northwestern University.
